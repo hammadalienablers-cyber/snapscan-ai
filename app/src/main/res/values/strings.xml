@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SnapScan AI</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_scanner">Scanner</string>
+    <string name="nav_editor">Editor</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+    <string name="camera_permission_rationale">Camera permission is required to scan QR codes live and capture photos for AI enhancement.</string>
+    <string name="storage_permission_rationale">Storage/Gallery access is needed to select and save your edited photos.</string>
+</resources>

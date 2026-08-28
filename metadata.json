@@ -1,0 +1,6 @@
+{
+  "name": "SnapScan AI",
+  "description": "Smart QR Code Scanner and AI-powered Photo Filter & Editor with local history and instant export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
